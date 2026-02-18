@@ -14,3 +14,16 @@ Used in:
 
 Why important:
 All cryptographic algorithms rely on modular arithmetic.
+# Day 2 Notes – Vectors & Matrices
+
+Vectors are ordered lists of numbers.
+
+Used in:
+- LWE
+- Ring-LWE
+- Lattice cryptography
+
+Matrices represent linear transformations.
+
+Why important:
+Post-quantum schemes rely on matrix and vector operations.
