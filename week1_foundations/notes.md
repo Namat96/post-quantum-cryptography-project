@@ -27,3 +27,16 @@ Matrices represent linear transformations.
 
 Why important:
 Post-quantum schemes rely on matrix and vector operations.
+# Day 3 Notes – Number Theory Basics
+
+GCD is used in key generation.
+
+Extended Euclidean Algorithm computes modular inverse.
+
+Modular inverse is required in:
+- RSA
+- ECC
+- LWE
+
+Prime numbers are fundamental in cryptography.
+
