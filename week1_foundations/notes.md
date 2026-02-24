@@ -40,3 +40,16 @@ Modular inverse is required in:
 
 Prime numbers are fundamental in cryptography.
 
+# Day 4 Notes – RSA
+
+RSA Steps:
+1. Choose primes p and q
+2. Compute n = pq
+3. Compute φ(n)
+4. Choose e such that gcd(e, φ) = 1
+5. Compute d = e^{-1} mod φ
+6. Encrypt: c = m^e mod n
+7. Decrypt: m = c^d mod n
+
+RSA security relies on integer factorization.
+
